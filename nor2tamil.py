@@ -14,7 +14,7 @@ wb= load_workbook('eng.xlsx')
 # define the sheet name
 ws=wb['Ark1']
 # slice the dataframe with from and to indexes
-word = df.iloc[5904:6010]
+word = df.iloc[0:6010]
 # excel row number    
 j=2
 
