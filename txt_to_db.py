@@ -27,5 +27,3 @@ for item in word:
 
 connection.close()
 
-
-
