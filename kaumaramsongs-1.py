@@ -5,7 +5,6 @@ import re
 import os
 import time
 
-
 # Download songs using page count
 
 driver=webdriver.Chrome()
