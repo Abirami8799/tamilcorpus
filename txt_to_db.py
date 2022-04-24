@@ -25,8 +25,5 @@ for item in word:
     connection.commit()
 
 
-
 connection.close()
-
-
 
